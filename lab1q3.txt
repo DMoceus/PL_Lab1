@@ -1,0 +1,7 @@
+a)
+	The comma between "acc" and "p" declares both these variables as int's. 
+c)
+	O(n)
+d)
+	O(n)
+

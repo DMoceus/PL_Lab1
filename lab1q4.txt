@@ -1,0 +1,5 @@
+4)
+	a)
+		The max size of a integer on my implementation of C is 2147483647
+	b)
+		In the event of arithmetic overflow, the integer rolls over to the minimum int of -2148483648
